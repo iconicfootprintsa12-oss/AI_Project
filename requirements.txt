@@ -1,0 +1,11 @@
+flask
+flask_sqlalchemy
+pandas
+scikit-learn
+joblib
+sentence-transformers
+faiss-cpu; platform_system!='Windows'
+openai
+langchain
+numpy
+werkzeug
